@@ -1,0 +1,628 @@
+{
+  "frozen_second": 55,
+  "problem_count": 3,
+  "solutions": {
+    "1": {
+      "user_id": "suhaha",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 1
+    },
+    "2": {
+      "user_id": "huangyen",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 2
+    },
+    "3": {
+      "user_id": "hyxxw",
+      "problem_index": 1,
+      "verdict": "P0",
+      "submitted_seconds": 3
+    },
+    "4": {
+      "user_id": "aa0909600601",
+      "problem_index": 1,
+      "verdict": "P0",
+      "submitted_seconds": 4
+    },
+    "5": {
+      "user_id": "hertin",
+      "problem_index": 1,
+      "verdict": "P0",
+      "submitted_seconds": 5
+    },
+    "6": {
+      "user_id": "tamama41798",
+      "problem_index": 1,
+      "verdict": "P0",
+      "submitted_seconds": 6
+    },
+    "7": {
+      "user_id": "QAQQAQQAQ",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 7
+    },
+    "8": {
+      "user_id": "mirageDora",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 8
+    },
+    "9": {
+      "user_id": "ICN0023",
+      "problem_index": 1,
+      "verdict": "P0",
+      "submitted_seconds": 9
+    },
+    "10": {
+      "user_id": "gymgym",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 10
+    },
+    "11": {
+      "user_id": "JoyTai",
+      "problem_index": 1,
+      "verdict": "P0",
+      "submitted_seconds": 11
+    },
+    "12": {
+      "user_id": "peichun",
+      "problem_index": 1,
+      "verdict": "P0",
+      "submitted_seconds": 12
+    },
+    "13": {
+      "user_id": "wwwmmdc",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 13
+    },
+    "14": {
+      "user_id": "bolinlee",
+      "problem_index": 1,
+      "verdict": "P0",
+      "submitted_seconds": 14
+    },
+    "15": {
+      "user_id": "Jeremy0128",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 15
+    },
+    "16": {
+      "user_id": "tamama41798",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 16
+    },
+    "17": {
+      "user_id": "LiWei_0407",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 17
+    },
+    "18": {
+      "user_id": "ab1773c",
+      "problem_index": 1,
+      "verdict": "P0",
+      "submitted_seconds": 18
+    },
+    "19": {
+      "user_id": "jeicheng",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 19
+    },
+    "20": {
+      "user_id": "Gejdh",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 20
+    },
+    "21": {
+      "user_id": "abcdeGGGGG",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 21
+    },
+    "22": {
+      "user_id": "Ru.xuan",
+      "problem_index": 1,
+      "verdict": "P0",
+      "submitted_seconds": 22
+    },
+    "23": {
+      "user_id": "RainChen",
+      "problem_index": 1,
+      "verdict": "P0",
+      "submitted_seconds": 23
+    },
+    "24": {
+      "user_id": "zyc501",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 24
+    },
+    "25": {
+      "user_id": "Codeforce999",
+      "problem_index": 1,
+      "verdict": "P0",
+      "submitted_seconds": 25
+    },
+    "26": {
+      "user_id": "peichun",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 26
+    },
+    "27": {
+      "user_id": "-NO_name",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 27
+    },
+    "28": {
+      "user_id": "suhaha",
+      "problem_index": 2,
+      "verdict": "AC",
+      "submitted_seconds": 28
+    },
+    "29": {
+      "user_id": "hertin",
+      "problem_index": 1,
+      "verdict": "P0",
+      "submitted_seconds": 29
+    },
+    "30": {
+      "user_id": "JoyTai",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 30
+    },
+    "31": {
+      "user_id": "Codeforce999",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 31
+    },
+    "32": {
+      "user_id": "Ru.xuan",
+      "problem_index": 1,
+      "verdict": "P0",
+      "submitted_seconds": 32
+    },
+    "33": {
+      "user_id": "jun-an",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 33
+    },
+    "34": {
+      "user_id": "n901050639",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 34
+    },
+    "35": {
+      "user_id": "hyxxw",
+      "problem_index": 1,
+      "verdict": "P0",
+      "submitted_seconds": 35
+    },
+    "36": {
+      "user_id": "ICN0023",
+      "problem_index": 1,
+      "verdict": "P0",
+      "submitted_seconds": 36
+    },
+    "37": {
+      "user_id": "fay1001",
+      "problem_index": 1,
+      "verdict": "P0",
+      "submitted_seconds": 37
+    },
+    "38": {
+      "user_id": "hertin",
+      "problem_index": 1,
+      "verdict": "P0",
+      "submitted_seconds": 38
+    },
+    "39": {
+      "user_id": "synebnslrmiviudkg",
+      "problem_index": 1,
+      "verdict": "P0",
+      "submitted_seconds": 39
+    },
+    "40": {
+      "user_id": "mirageDora",
+      "problem_index": 2,
+      "verdict": "P0",
+      "submitted_seconds": 40
+    },
+    "41": {
+      "user_id": "ICN0023",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 41
+    },
+    "42": {
+      "user_id": "hertin",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 42
+    },
+    "43": {
+      "user_id": "fay1001",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 43
+    },
+    "44": {
+      "user_id": "wwwmmdc",
+      "problem_index": 2,
+      "verdict": "P0",
+      "submitted_seconds": 44
+    },
+    "45": {
+      "user_id": "Ru.xuan",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 45
+    },
+    "46": {
+      "user_id": "hyxxw",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 46
+    },
+    "47": {
+      "user_id": "jiesie",
+      "problem_index": 1,
+      "verdict": "P0",
+      "submitted_seconds": 47
+    },
+    "48": {
+      "user_id": "Peiwen",
+      "problem_index": 2,
+      "verdict": "AC",
+      "submitted_seconds": 48
+    },
+    "49": {
+      "user_id": "mirageDora",
+      "problem_index": 2,
+      "verdict": "P0",
+      "submitted_seconds": 49
+    },
+    "50": {
+      "user_id": "RainChen",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 50
+    },
+    "51": {
+      "user_id": "bolinlee",
+      "problem_index": 1,
+      "verdict": "P0",
+      "submitted_seconds": 51
+    },
+    "52": {
+      "user_id": "andrea11",
+      "problem_index": 1,
+      "verdict": "P0",
+      "submitted_seconds": 52
+    },
+    "53": {
+      "user_id": "ab1773c",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 53
+    },
+    "54": {
+      "user_id": "mirageDora",
+      "problem_index": 2,
+      "verdict": "AC",
+      "submitted_seconds": 54
+    },
+    "55": {
+      "user_id": "-NO_name",
+      "problem_index": 2,
+      "verdict": "P0",
+      "submitted_seconds": 55
+    },
+    "56": {
+      "user_id": "Peiwen",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 56
+    },
+    "57": {
+      "user_id": "Troy2000",
+      "problem_index": 1,
+      "verdict": "P0",
+      "submitted_seconds": 57
+    },
+    "58": {
+      "user_id": "bolinlee",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 58
+    },
+    "59": {
+      "user_id": "jiesie",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 59
+    },
+    "60": {
+      "user_id": "JoyTai",
+      "problem_index": 2,
+      "verdict": "AC",
+      "submitted_seconds": 60
+    },
+    "61": {
+      "user_id": "tamama41798",
+      "problem_index": 3,
+      "verdict": "P0",
+      "submitted_seconds": 61
+    },
+    "62": {
+      "user_id": "gymgym",
+      "problem_index": 2,
+      "verdict": "AC",
+      "submitted_seconds": 62
+    },
+    "63": {
+      "user_id": "andrea11",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 63
+    },
+    "64": {
+      "user_id": "suhaha",
+      "problem_index": 3,
+      "verdict": "AC",
+      "submitted_seconds": 64
+    },
+    "65": {
+      "user_id": "tamama41798",
+      "problem_index": 2,
+      "verdict": "AC",
+      "submitted_seconds": 65
+    },
+    "66": {
+      "user_id": "abcd9876",
+      "problem_index": 1,
+      "verdict": "P0",
+      "submitted_seconds": 66
+    },
+    "67": {
+      "user_id": "abcd9876",
+      "problem_index": 1,
+      "verdict": "P0",
+      "submitted_seconds": 67
+    },
+    "68": {
+      "user_id": "Troy2000",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 68
+    },
+    "69": {
+      "user_id": "abcd9876",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 69
+    },
+    "70": {
+      "user_id": "-NO_name",
+      "problem_index": 2,
+      "verdict": "AC",
+      "submitted_seconds": 70
+    },
+    "71": {
+      "user_id": "synebnslrmiviudkg",
+      "problem_index": 1,
+      "verdict": "AC",
+      "submitted_seconds": 71
+    },
+    "72": {
+      "user_id": "QAQQAQQAQ",
+      "problem_index": 2,
+      "verdict": "P0",
+      "submitted_seconds": 72
+    },
+    "73": {
+      "user_id": "jun-an",
+      "problem_index": 2,
+      "verdict": "AC",
+      "submitted_seconds": 73
+    },
+    "74": {
+      "user_id": "n901050639",
+      "problem_index": 2,
+      "verdict": "P0",
+      "submitted_seconds": 74
+    },
+    "75": {
+      "user_id": "zyc501",
+      "problem_index": 3,
+      "verdict": "P0",
+      "submitted_seconds": 75
+    }
+  },
+  "users": {
+    "suhaha": {
+      "name": "蘇恩立 suhaha",
+      "college": "新化高中",
+      "is_exclude": false
+    },
+    "huangyen": {
+      "name": "黃焱 huangyen",
+      "college": "新化高中",
+      "is_exclude": false
+    },
+    "hyxxw": {
+      "name": "許孟涵 hyxxw",
+      "college": "新化高中",
+      "is_exclude": false
+    },
+    "aa0909600601": {
+      "name": "林育豪 aa0909600601",
+      "college": "新化高中",
+      "is_exclude": false
+    },
+    "hertin": {
+      "name": "陳荷婷 hertin",
+      "college": "新化高中",
+      "is_exclude": false
+    },
+    "tamama41798": {
+      "name": "林彥璟 tamama41798",
+      "college": "新化高中",
+      "is_exclude": false
+    },
+    "QAQQAQQAQ": {
+      "name": "陳冠璁 QAQQAQQAQ",
+      "college": "復興國中",
+      "is_exclude": false
+    },
+    "mirageDora": {
+      "name": "洪子淨 mirageDora",
+      "college": "新化高中",
+      "is_exclude": false
+    },
+    "ICN0023": {
+      "name": "曾竑勳 ICN0023",
+      "college": "前鎮高中",
+      "is_exclude": false
+    },
+    "gymgym": {
+      "name": "陳秉宏 gymgym",
+      "college": "復興國中",
+      "is_exclude": false
+    },
+    "JoyTai": {
+      "name": "戴鈺霖 JoyTai",
+      "college": "新化高中",
+      "is_exclude": false
+    },
+    "peichun": {
+      "name": "郭沛淳 peichun",
+      "college": "新化高中",
+      "is_exclude": false
+    },
+    "wwwmmdc": {
+      "name": "黃霈瑜 wwwmmdc",
+      "college": "新化高中",
+      "is_exclude": false
+    },
+    "bolinlee": {
+      "name": "李柏霖 bolinlee",
+      "college": "新化高中",
+      "is_exclude": false
+    },
+    "Jeremy0128": {
+      "name": "蔡珉詠 Jeremy0128",
+      "college": "前鎮高中",
+      "is_exclude": false
+    },
+    "LiWei_0407": {
+      "name": "鄭立偉 LiWei_0407",
+      "college": "新化高中",
+      "is_exclude": false
+    },
+    "ab1773c": {
+      "name": "王俊億 ab1773c",
+      "college": "新化高工",
+      "is_exclude": false
+    },
+    "jeicheng": {
+      "name": "鄭羽絜 jeicheng",
+      "college": "新化高中",
+      "is_exclude": false
+    },
+    "Gejdh": {
+      "name": "吳彥頲 Gejdh",
+      "college": "新化高中",
+      "is_exclude": false
+    },
+    "abcdeGGGGG": {
+      "name": "洪子晴 abcdeGGGGG",
+      "college": "政治大學",
+      "is_exclude": false
+    },
+    "Ru.xuan": {
+      "name": "鄭茹瑄 Ru.xuan",
+      "college": "新化高中",
+      "is_exclude": false
+    },
+    "RainChen": {
+      "name": "陳慶穗 RainChen",
+      "college": "新化高中",
+      "is_exclude": false
+    },
+    "zyc501": {
+      "name": "鄭亦岑 zyc501",
+      "college": "新化高中",
+      "is_exclude": false
+    },
+    "Codeforce999": {
+      "name": "王梓恩 Codeforce999",
+      "college": "復興國中",
+      "is_exclude": false
+    },
+    "-NO_name": {
+      "name": "邱奕達 -NO_name",
+      "college": "復興國中",
+      "is_exclude": false
+    },
+    "jun-an": {
+      "name": "郭竣安 jun-an",
+      "college": "新化高中",
+      "is_exclude": false
+    },
+    "n901050639": {
+      "name": "莊上儀 n901050639",
+      "college": "新化高中",
+      "is_exclude": false
+    },
+    "fay1001": {
+      "name": "黃羽嫻 fay1001",
+      "college": "新化高中",
+      "is_exclude": false
+    },
+    "synebnslrmiviudkg": {
+      "name": "黃俊睿 synebnslrmiviudkg",
+      "college": "復興國中",
+      "is_exclude": false
+    },
+    "jiesie": {
+      "name": "許鈺鈺 jiesie",
+      "college": "新化高中",
+      "is_exclude": false
+    },
+    "Peiwen": {
+      "name": "黃佩雯 Peiwen",
+      "college": "新化高中",
+      "is_exclude": false
+    },
+    "andrea11": {
+      "name": "林喜箴 andrea11",
+      "college": "復興國中",
+      "is_exclude": false
+    },
+    "Troy2000": {
+      "name": "張仁豪 Troy2000",
+      "college": "復興國中",
+      "is_exclude": false
+    },
+    "abcd9876": {
+      "name": "王梓宥 abcd9876",
+      "college": "復興國中",
+      "is_exclude": false
+    }
+  }
+}
